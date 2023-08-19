@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chrome-launcher": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "lighthouse": "^11.0.0"
+  }
+}
