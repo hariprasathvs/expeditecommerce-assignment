@@ -11,7 +11,6 @@ A script that uses the Lighthouse tool to monitor the performance of web applica
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the Script](#running-the-script)
-- [License](#license)
 
 ## Description
 
