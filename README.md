@@ -1,4 +1,4 @@
-# expeditecommerce-assignment
+# Lightweight Performance test framework
 # Performance Monitor with Lighthouse
 
 A script that uses the Lighthouse tool to monitor the performance of web applications. It measures the First Contentful Paint (FCP) and Cumulative Layout Shift (CLS) metrics for a specified number of tests and calculates the average scores.
